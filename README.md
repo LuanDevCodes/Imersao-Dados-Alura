@@ -2,10 +2,6 @@
 
 > Projeto final desenvolvido durante a **Imersão Dev Python da Alura**, onde foi criada uma aplicação web interativa para análise de dados salariais com base num arquivo csv.
 
-<p align="center">
-  <img src="URL_DO_SEU_SCREENSHOT_OU_GIF_AQUI" alt="Demonstração do Dashboard" width="90%"/>
-</p>
-
 ## 📝 Resumo do Projeto
 
 Este projeto consiste em um dashboard interativo construído com **Streamlit** para visualizar e analisar dados de salários na área de tecnologia e dados. A aplicação permite que o usuário filtre os dados por ano, senioridade, tipo de contrato e tamanho da empresa, oferecendo insights imediatos através de métricas e gráficos dinâmicos.
