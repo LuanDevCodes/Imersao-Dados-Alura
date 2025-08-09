@@ -46,9 +46,13 @@ Acompanhar o desenvolvimento deste projeto na Imersão Dev foi uma experiência 
 
 ![Tela Inicial](Inicio.png)
 
+---
+
 ### Os Dashboards
 
 ![Dashboards](Dashboards.png)
+
+---
 
 ### Exibição Detalhada
 
