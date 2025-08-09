@@ -2,9 +2,13 @@
 
 > Projeto final desenvolvido durante a **Imersão Dev Python da Alura**, onde foi criada uma aplicação web interativa para análise de dados salariais com base num arquivo csv.
 
+---
+
 ## 📝 Resumo do Projeto
 
 Este projeto consiste em um dashboard interativo construído com **Streamlit** para visualizar e analisar dados de salários na área de tecnologia e dados. A aplicação permite que o usuário filtre os dados por ano, senioridade, tipo de contrato e tamanho da empresa, oferecendo insights imediatos através de métricas e gráficos dinâmicos.
+
+---
 
 ## ✨ Funcionalidades Principais
 
@@ -18,6 +22,8 @@ Este projeto consiste em um dashboard interativo construído com **Streamlit** p
     * **Mapa Coroplético:** Média salarial de Cientistas de Dados por país.
 * **Tabela de Dados:** Exibição do dataframe filtrado para consulta detalhada.
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Python 3
@@ -26,6 +32,26 @@ Este projeto consiste em um dashboard interativo construído com **Streamlit** p
     * `Pandas` - Para carregamento, manipulação e filtragem dos dados.
     * `Plotly Express` - Para a criação dos gráficos interativos.
 
+---
+
 ## 🧠 O que Aprendi na Imersão Dev
 
 Acompanhar o desenvolvimento deste projeto na Imersão Dev foi uma experiência muito positiva. O que mais me marcou foi descobrir o quão poderosa e acessível é a criação de dashboards interativos com Python. Fiquei muito surpreso ao ver como os dados foram manipulados com Pandas e transformados em gráficos dinâmicos com Plotly e Streamlit. Este projeto me deu uma visão clara do potencial dessas ferramentas para a análise de dados e para a criação de soluções que auxiliam na tomada de decisões, e despertou meu forte interesse em continuar estudando e desenvolvendo minhas habilidades nessa área.
+
+---
+
+## 📸 Prints do projeto
+
+### Tela Inicial
+
+![Tela Inicial](Inicio.png)
+
+### Os Dashboards
+
+![Dashboards](Dashboards.png)
+
+### Exibição Detalhada
+
+![Detalhes](Detalhes.png)
+
+---
